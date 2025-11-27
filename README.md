@@ -3,6 +3,7 @@
 > **Hinweis / Note**  
 > This tool is intended for **singleplayer use only**. Do **not** use it with GTA Online.  
 > Dieses Tool ist ausschließlich für den **Singleplayer** gedacht. Bitte **nicht** mit GTA Online verwenden.
+> This tool was made with ChatGPT5.1
 
 ---
 
